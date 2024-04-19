@@ -1,0 +1,5 @@
+# Project exclude paths
+/luapi-client-sdk/target/
+/luapi-common/target/
+/luapi-gateway/target/
+/target/
